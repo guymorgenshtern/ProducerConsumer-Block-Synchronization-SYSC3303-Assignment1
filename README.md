@@ -2,7 +2,7 @@
 #README
 
 SYSC3303 Assignment 1 - PB&J Maker
-Guy Morgenshtern 101151430
+Guy Morgenshtern
 
 Premise:
 To use multiple consumer and one producer thread in order to create exactly 20 peanut butter and jam sandwiches. The table is synchronised using the block synchronisation method, meaning only one object can access it at a time.
